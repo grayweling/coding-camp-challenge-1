@@ -4,12 +4,12 @@
 This project was an excercise on improving accessibility and SEO (Search Engine Optimization) for a provided website. The project involved adding semantic elements to improve the flow of the HTML, condensing the CSS to prevent duplicate code, and re-organizing the CSS to make it easier to read.
 
 ## Horiseon
-<a href=
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    <a href="https://grayweling.github.io/coding-camp-challenge-1/">Click Here<a/> to go to the website.
 
+    ![Screenshots](assets/images/capture1.jpg)
+    (assets/images/capture2.jpg)
+    (assets/images/capture3.jpg)
+    
 ## License
 MIT License
 
