@@ -6,9 +6,9 @@ This project was an excercise on improving accessibility and SEO (Search Engine 
 ## Horiseon
 <a href="https://grayweling.github.io/coding-camp-challenge-1/">Click Here</a> to go to the website.
 
-![Screenshots](./assets/images/capture1.jpg)
-![Screenshots](./assets/images/capture2.jpg)
-![Screenshots](./assets/images/capture3.jpg) 
+![Screenshots](assets/images/capture1.jpg)
+![Screenshots](assets/images/capture2.jpg)
+![Screenshots](assets/images/capture3.jpg) 
     
 ## License
 MIT License
